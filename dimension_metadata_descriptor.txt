@@ -1,0 +1,15 @@
+{
+ "dimension":
+   {"name":""
+    "hierarchy":
+	{"name":""
+	 "root":"root_"
+        }
+    "attribute":
+	{"name":""
+	 "type":"/string, alias, numeric/"
+         "defaut_value":"",
+        }
+   }
+ 
+}
