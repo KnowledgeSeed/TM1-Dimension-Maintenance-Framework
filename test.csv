@@ -1,0 +1,10 @@
+vL1;vL2;vL3;vL4;vL5;vL6;vL7;vL8;vL9;vL10;vL11;vL12;vL13;vL14;vL15;[W]Default;[A]Code;[A]Code + Name;[A]Caption_Default;[W]Branches;[H]Branches;[];[];[];[];[];[];[];[];[];[];[];[];[];[];[]
+All GR Company;;;;;;;;;;;;;;;0;All GR Company;All GR Company;All GR Company;;;;;;;;;;;;;;;;;
+;Segment1;;;;;;;;;;;;;;1;Segment1;Segment1;Segment1;;;;;;;;;;;;;;;;;
+;;C1;;;;;;;;;;;;;1;Company1;Company1;Company1;1;Branch1;;;;;;;;;;;;;;;
+;;C2;;;;;;;;;;;;;1;Company2;Company2;Company2;1;Branch1;;;;;;;;;;;;;;;
+;;C3;;;;;;;;;;;;;1;Company3;Company3;Company3;1;Branch2;;;;;;;;;;;;;;;
+;Segment2;;;;;;;;;;;;;;1;Segment1;Segment1;Segment1;;;;;;;;;;;;;;;;;
+;;C4;;;;;;;;;;;;;;Company4;Company4;Company4;1;Branch2;;;;;;;;;;;;;;;
+;;C5;;;;;;;;;;;;;;Company5;Company5;Company5;1;Branch3;;;;;;;;;;;;;;;
+;;C6;;;;;;;;;;;;;;Company6;Company6;Company6;1;Branch3;;;;;;;;;;;;;;;
